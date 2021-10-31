@@ -1,0 +1,11 @@
+for(float f = 3.25; f <= 5.96; f = f + 0.22)
+{
+	if(f / 2 > 3.34)
+	{
+		f = 6.0;
+	}
+	else f = 2.0;
+
+	return 5;
+	return3 = 4;
+}
